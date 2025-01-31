@@ -67,12 +67,12 @@ body {
   }
   
   .card p {
-    font-size: 30px;
+    font-size: 100px;
     margin: 5px;
   }
   
   .card button {
-    padding: 10px 20px;
+    padding: 30px 50px;
     margin: 5px;
     border: none;
     border-radius: 5px;
